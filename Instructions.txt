@@ -1,0 +1,10 @@
+1. Check Nodejs is installed ? if no , Install node js from website on windows
+2. and then go the command prompt and type "npm install -g create-react-app" 
+3. Extract the shared zip 
+4. go to the extracted folder and in the path bar (below clipboard) type "cmd" and press enter
+5. In the command prompt type the below commands
+6. npm start
+6.1. If some react issues , then type "npm install"
+6.2. npm start
+7. It opens a browser window with app running
+
